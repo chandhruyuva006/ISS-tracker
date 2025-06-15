@@ -8,7 +8,7 @@ import time
 
 # Streamlit page config
 st.set_page_config(layout="centered")
-st.title("🛰️ Real-Time ISS Tracker (Auto-Refresh Every 10 Seconds)")
+st.header("🛰️ Real-Time ISS Tracker (Auto-Refresh Every 10 Seconds)")
 
 # Placeholder to update live content
 placeholder = st.empty()
