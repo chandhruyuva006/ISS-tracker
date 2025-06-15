@@ -41,7 +41,7 @@ Then open the link Streamlit gives you (usually `http://localhost:8501`).
 
 ### Screenshot
 
-![ISS Tracker Screenshot](images/screenshot.png)
+![ISS Tracker Screenshot](images/ss.png)
 
 ---
 
